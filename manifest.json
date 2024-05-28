@@ -2,7 +2,11 @@
   "name": "Lab8-Starter",
   "short_name": "Andrew Nguyen",
   "description": "Lab that showcases dinners for Thanksgiving",
+<<<<<<< HEAD
   "start_url": "./",
+=======
+  "start_url": "https://Andrewphanguyen.github.io/Lab8-Starter/",
+>>>>>>> 0750f62b73daf0ee4b8550209e44333cade700b7
   "display": "standalone",
   "background_color": "red",
   "theme_color": "red",
@@ -33,4 +37,8 @@
       "type": "image/png"
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0750f62b73daf0ee4b8550209e44333cade700b7
